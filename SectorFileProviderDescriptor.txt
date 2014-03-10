@@ -1,0 +1,158 @@
+NAME:EuroScope main sector file provider
+URL:http://www.euroscope.hu/sectorfile/euroscope_sector_providers.txt
+LOCALFILE:./euroscope_sector_providers.txt
+LASTDOWNLOAD:201204081302
+NEXTDOWNLOAD:201204101302
+AUTODOWNLOAD:1
+NAME:VATSIM Bulgarian Sector File Provider
+URL:http://vaccbul.avsim-bg.org/ES/VACCBUL_sector_provider.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\VACCBUL_sector_provider.txt
+AUTODOWNLOAD:0
+NAME:EuroCenter vACC Sector File Provider
+URL:http://www.euc-vacc.org/es/EUROCEN_sector_file.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\EUROCEN_sector_file.txt
+AUTODOWNLOAD:0
+NAME:LHCC - VACCHUN Sector Files
+URL:http://www.vacchun.hu/es/vacchun_sector_files.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\vacchun_sector_files.txt
+AUTODOWNLOAD:0
+NAME:Shanwick & Gander Oceanic
+URL:http://idisk.mac.com/boerner-Public/EuroScope/EGGX-CZQX_sector_file.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\EGGX-CZQX_sector_file.txt
+AUTODOWNLOAD:0
+NAME:VATSIM Germany Sector File Provider
+URL:http://nav.vatsim-germany.org/files/VATGER_sector_provider.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\VATGER_sector_provider.txt
+AUTODOWNLOAD:0
+NAME:VATSIM Canada Sector File Provider
+URL:http://czul.vatcan.org/CANscope/VATCAN_Sector_Provider.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\VATCAN_Sector_Provider.txt
+AUTODOWNLOAD:0
+NAME:Central & North Africa sector files
+URL:http://vatcaf.flyvatsimafrica.org/euroscopeupdate/VATCAF_Sector_Provider.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\VATCAF_Sector_Provider.txt
+AUTODOWNLOAD:0
+NAME:Polish vACC Sector Provider
+URL:http://dziadowiec.pl/ES/PLVACC_sectors.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\PLVACC_sectors.txt
+AUTODOWNLOAD:0
+NAME:vACC Italy Sector Files
+URL:http://www.vatita.net/es/vatita_sector_files.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\vatita_sector_files.txt
+LASTDOWNLOAD:201204090729
+NEXTDOWNLOAD:201204090829
+AUTODOWNLOAD:1
+NAME:LRBB - ROvACC Sector Files
+URL:http://www.rovacc.org/downloads/ROvACC_sector_stuff.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\ROvACC_sector_stuff.txt
+AUTODOWNLOAD:0
+NAME:Ukraine vACC Sector Files
+URL:http://www.vacc-ua.aero/information/controllers/sectors/VACCUKR_sectors.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\VACCUKR_sectors.txt
+AUTODOWNLOAD:0
+NAME:ZLC Center Complete
+URL:http://starvalleyranch.net/uploads/ZLC_Sector_Provider.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\ZLC_Sector_Provider.txt
+AUTODOWNLOAD:0
+NAME:vZAU Chicago - Beta
+URL:http://zausector.webbhq.net/vZAU_Sector_Files.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\vZAU_Sector_Files.txt
+AUTODOWNLOAD:0
+NAME:Alaska ARTCC Control File
+URL:http://vzanartcc.net/downloads/euroscope/vZAN_sectorfiles.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\vZAN_sectorfiles.txt
+AUTODOWNLOAD:0
+NAME:VATSIM-UK Euroscope Sector File Provider 
+URL:http://www.vatsim-uk.co.uk/files/sector/esad/VATUK_Euroscope_files.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\VATUK_Euroscope_files.txt
+LASTDOWNLOAD:201204090731
+NEXTDOWNLOAD:201204100731
+AUTODOWNLOAD:1
+NAME:VATSIM UAE Sector File Provider
+URL:http://vatme.net/FILES/VATUAE/sector/VATUAE_ES_sector_files.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\VATUAE_ES_sector_files.txt
+AUTODOWNLOAD:0
+NAME:Latvia vACC Sector File Provider
+URL:http://www.lv-vacc.org/es/EVRR_FIR_sector_file.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\EVRR_FIR_sector_file.txt
+AUTODOWNLOAD:0
+NAME:TRvACC.Org Turkish Virtual Area Control Center
+URL:http://trvacc.org/es/TRvACC_es_provider.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\TRvACC_es_provider.txt
+LASTDOWNLOAD:201204082054
+NEXTDOWNLOAD:201204102054
+AUTODOWNLOAD:1
+NAME:Vatsim-Scandinavia - Denmark
+URL:http://www.vatsim-scandinavia.org/euroscope/sectorfiles/denmark/EKDK_sector_file.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\EKDK_sector_file.txt
+AUTODOWNLOAD:0
+NAME:Vatsim-Scandinavia - Norway
+URL:http://www.vatsim-scandinavia.org/euroscope/sectorfiles/norway/ENOR_sector_files.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\ENOR_sector_files.txt
+AUTODOWNLOAD:0
+NAME:Vatsim-Scandinavia - Sweden
+URL:http://www.vatsim-scandinavia.org/euroscope/sectorfiles/sweden/ESAA_sector_file.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\ESAA_sector_file.txt
+AUTODOWNLOAD:0
+NAME:VATSIM MIDDLE EAST Euroscope Sector File Provider
+URL:http://vatme.net/files/Sectors/VATME_sector_Provider.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\VATME_sector_Provider.txt
+LASTDOWNLOAD:201204082055
+NEXTDOWNLOAD:201204092055
+AUTODOWNLOAD:1
+NAME:VATSIM-UK Euroscope Sector File Provider 
+URL:http://www.vatsim-uk.co.uk/files/sector/esad/VATUK_Euroscope_files.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\VATUK_Euroscope_files.txt
+LASTDOWNLOAD:201201102214
+NEXTDOWNLOAD:201201122214
+AUTODOWNLOAD:1
+NAME:VATSIM-UK Euroscope Sector File Provider 
+URL:http://www.vatsim-uk.co.uk/files/sector/esad/VATUK_Euroscope_files.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\VATUK_Euroscope_files.txt
+LASTDOWNLOAD:201201110948
+NEXTDOWNLOAD:201201130948
+AUTODOWNLOAD:1
+NAME:VATSIM-UK Euroscope Sector File Provider
+URL:http://www.vatsim-uk.org/files/sector/esad/VATUK_Euroscope_files.txt
+LOCALFILE:C:\Users\Masoud\Documents\EuroScope\VATUK_Euroscope_files.txt
+AUTODOWNLOAD:0
+SECTOR_AUTODOWNLOAD:1
+SECTOR_CONFIRMED:0
+SECTOR_PROVIDER:vACC Italy Sector Files
+SECTOR_NAME:Italy ES Package
+SECTOR_AUTODOWNLOAD:1
+SECTOR_CONFIRMED:0
+SECTOR_PROVIDER:vACC Italy Sector Files
+SECTOR_NAME:Italy Settings
+SECTOR_AUTODOWNLOAD:1
+SECTOR_CONFIRMED:0
+SECTOR_PROVIDER:VATSIM-UK Euroscope Sector File Provider 
+SECTOR_NAME:EGPX - Scottish FIR
+SECTOR_AUTODOWNLOAD:1
+SECTOR_CONFIRMED:0
+SECTOR_PROVIDER:VATSIM-UK Euroscope Sector File Provider 
+SECTOR_NAME:EGTT - London FIR
+SECTOR_AUTODOWNLOAD:1
+SECTOR_CONFIRMED:0
+SECTOR_PROVIDER:TRvACC.Org Turkish Virtual Area Control Center
+SECTOR_NAME:LTAA|BB Turkish FIR - Complete
+SECTOR_AUTODOWNLOAD:1
+SECTOR_CONFIRMED:0
+SECTOR_PROVIDER:VATSIM MIDDLE EAST Euroscope Sector File Provider
+SECTOR_NAME:Gulf Control FSS
+SECTOR_AUTODOWNLOAD:1
+SECTOR_CONFIRMED:0
+SECTOR_PROVIDER:VATSIM-UK Euroscope Sector File Provider 
+SECTOR_NAME:EGPX - Scottish FIR
+SECTOR_AUTODOWNLOAD:1
+SECTOR_CONFIRMED:0
+SECTOR_PROVIDER:VATSIM-UK Euroscope Sector File Provider 
+SECTOR_NAME:EGTT - London FIR
+SECTOR_AUTODOWNLOAD:1
+SECTOR_CONFIRMED:0
+SECTOR_PROVIDER:VATSIM-UK Euroscope Sector File Provider 
+SECTOR_NAME:EGPX - Scottish FIR
+SECTOR_AUTODOWNLOAD:1
+SECTOR_CONFIRMED:0
+SECTOR_PROVIDER:VATSIM-UK Euroscope Sector File Provider 
+SECTOR_NAME:EGTT - London FIR

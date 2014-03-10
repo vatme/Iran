@@ -1,0 +1,1 @@
+Euroscope SectorFile edited for OIIX FIR by Masoud Asadi, just Uncompress it anywhere in your computer then Load OIIX_good_prof.prf from that location when Euroscope asks for profile in startup

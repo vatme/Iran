@@ -1,0 +1,35 @@
+WORD:zero:0
+WORD:one:1
+WORD:two:2
+WORD:three:3
+WORD:four:4
+WORD:five:5
+WORD:six:6
+WORD:seven:7
+WORD:eight:8
+WORD:nine:9
+WORD:ten:10
+WORD:eleven:11
+WORD:tweleve:12
+WORD:alpha:A
+WORD:bravo:B
+WORD:charlie:C
+WORD:delta:D
+WORD:echo:E
+WORD:foxtrat:F
+WORD:golf:G
+WORD:hotel:H
+WORD:india:I
+WORD:thousand:000
+WORD:hundred:00
+WORD:clear:clear
+WORD:four:for
+WORD:two:to
+WORD:descend:descent
+WORD:right:R
+WORD:left:L
+WORD:expect:expect
+WORD:ILS:ILS approach
+WORD:arrival:arrival
+WORD:runway:runway
+WORD:two niner:29

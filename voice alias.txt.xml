@@ -1,0 +1,41 @@
+<GRAMMAR LANGID="409">
+  <RULE NAME="EuroScope" TOPLEVEL="ACTIVE">
+    <L>
+      <P>zero</P>
+      <P>one</P>
+      <P>two</P>
+      <P>three</P>
+      <P>four</P>
+      <P>five</P>
+      <P>six</P>
+      <P>seven</P>
+      <P>eight</P>
+      <P>nine</P>
+      <P>ten</P>
+      <P>eleven</P>
+      <P>tweleve</P>
+      <P>alpha</P>
+      <P>bravo</P>
+      <P>charlie</P>
+      <P>delta</P>
+      <P>echo</P>
+      <P>foxtrat</P>
+      <P>golf</P>
+      <P>hotel</P>
+      <P>india</P>
+      <P>thousand</P>
+      <P>hundred</P>
+      <P>clear</P>
+      <P>four</P>
+      <P>two</P>
+      <P>descend</P>
+      <P>right</P>
+      <P>left</P>
+      <P>expect</P>
+      <P>ILS</P>
+      <P>arrival</P>
+      <P>runway</P>
+      <P>two niner</P>
+    </L>
+  </RULE>
+</GRAMMAR>
